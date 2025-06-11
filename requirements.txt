@@ -1,0 +1,10 @@
+torch>=2.1
+torchvision
+timm>=0.9
+numpy
+matplotlib
+seaborn
+tqdm
+scikit-learn
+mlflow
+psutil
